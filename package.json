@@ -1,0 +1,21 @@
+{
+  "name": "app-crud-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "lint": "standard",
+    "start-dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.2.1",
+    "mongoose": "^9.11.2",
+    "nodemon": "^3.1.14",
+    "standard": "^17.1.2"
+  }
+}
